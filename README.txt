@@ -13,3 +13,5 @@ Go to the src directory of the project from where you need to import WSDL
 
 execute the following command
 "C:\Program Files\Java\jdk1.8.0_25\bin\wsimport.exe" -keep -verbose http://localhost:8080/sample/hello?wsdl
+
+This is Added from Command line.
